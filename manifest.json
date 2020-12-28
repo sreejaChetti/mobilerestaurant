@@ -1,0 +1,23 @@
+{
+  "name": "React-Restaurant",
+  "short_name": "Rest",
+  "theme_color": "#110e0e",
+  "background_color": "#110e0e",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+
+    {
+      "src": "images/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+  
+}
